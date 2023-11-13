@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hello, I'm Aarav
 
-<!--
-**aaravss1/aaravss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a creative developer who enjoys building interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- 💻 Programming Languages: Python, Lua RBLX
+- 🛠️ Other Tools: Git, VSCode
+
+## Projects
+
+### [Project Integrating VR in Roblox](#)
+A project in which I integrate VR to roblox
+
+
