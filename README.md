@@ -3,13 +3,9 @@
 ### About Me
 I like coding and technological stuff.
 
-### Projects
+## Projects
 #### [Integrating VR into roblox!](https://github.com/aaravss1/Integrating-VR-controls-in-Roblox)
-Brief description of the project.
-
-### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+It uses Lua and the Roblox Studio to integrate VR into Roblox.
 
 ### Fun Fact
 Did you know? My name is Aarav!!!!!
