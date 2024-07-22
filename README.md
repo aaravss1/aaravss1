@@ -1,18 +1,21 @@
-# 👋 Hello, I'm Aarav
+# Hello, I'm Aarav 👋
 
-## About Me
+### About Me
+I like coding and technological stuff.
 
-I'm a creative developer who enjoys building interactive web experiences.
+### Projects
+#### [Integrating VR into roblox!](https://github.com/aaravss1/Integrating-VR-controls-in-Roblox)
+Brief description of the project.
 
-## Skills
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia)
 
-- 💻 Programming Languages: Python, Lua RBLX
-- 🛠️ Other Tools: Git, VSCode
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-## Projects
+### Fun Fact
+Did you know? My name is Aarav!!!!!
 
-### [Project Integrating VR in Roblox](#)
-A project in which I integrate VR to roblox
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aaravss1)](https://git.io/streak-stats)
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
