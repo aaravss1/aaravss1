@@ -12,3 +12,9 @@ Did you know? My name is Aarav!!!!!
 
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=aaravss1)](https://github.com/ryo-ma/github-profile-trophy)
+```mermaid
+graph TD;
+    A[Wake up] -->|Poop| B[Code];
+    B -->|Eat| C[Sleep];
+```
+
